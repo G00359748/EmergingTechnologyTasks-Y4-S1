@@ -18,4 +18,9 @@ Task 1
 
 The first task was to write a function which required you to calculate the square root of 2 to 100 decimal places.I researched this watching tutorials on how to calculate square roots of number to give me an idea how to do this function.
 
+Task 2
+
+The second task was to do with the Chi Squared test for independence.In the task scipy stats was used to confirm that the Chi Squared value of 24.6 was the correct value.
+
+Task 3
 
