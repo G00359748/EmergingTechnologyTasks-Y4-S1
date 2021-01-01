@@ -15,3 +15,7 @@ How to run this project
 Tasks Information
 
 Task 1
+
+The first task was to write a function which required you to calculate the square root of 2 to 100 decimal places.I researched this watching tutorials on how to calculate square roots of number to give me an idea how to do this function.
+
+
