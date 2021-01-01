@@ -8,4 +8,5 @@ We were given tasks to complete which were to be coded in python using Jupyter N
 
 How to run this project
 
-First you have to clone the repository
+1.First you have to clone the repository
+2.Put into a folder set up for your git repository
