@@ -25,3 +25,7 @@ The second task was to do with the Chi Squared test for independence.In the task
 Task 3
 
 What was required for the third task was to research the two excel functions STDEV.P and STDEV.S.Then numpty was used to perform a simulation demonstraing that the STDEV.S calculation is a better estiate for the standared deviation of a population when performed on a sample
+
+Task 4
+
+The goals of this fourth and final task were to use scikit-learn to apply k-means clustering to Fisher’s famous Iris data set, explain in a Markdown cell how your code works and how accurate it might be, explain how your model could be used to make predictions of species of iris.
