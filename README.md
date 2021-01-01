@@ -11,3 +11,7 @@ How to run this project
 1.First you have to clone the repository
 2.Put into a folder set up for your git repository
 3.Run Jupyter Notebook on ur command line inside the folder
+
+Tasks Information
+
+Task 1
